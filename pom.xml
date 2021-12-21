@@ -5,17 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.techscribbler</groupId>
-    <artifactId>spring-playground</artifactId>
+    <artifactId>spring-rest-modules</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-rest-basics</module>
-        <module>currency-conversion-ms</module>
-        <module>currency-exchange-ms</module>
-        <module>limits-ms</module>
-        <module>netflix-eureka-naming-server</module>
-        <module>netflix-zuul-api-gateway-server</module>
-        <module>spring-cloud-config-server</module>
     </modules>
 
     <parent>
